@@ -19,5 +19,5 @@ At the moment, I have already managed to learn and put into practice the followi
 
 The next step I will study Java and Test Automation, and then wait for me on Google! (;
 
-<img src="C:\Users\vladi\Desktop\me.jpg" width="200" alt="My photo">
-<img src="C:\Users\vladi\Desktop\mycat.jpg" width="200" alt="My photo">
+<img src="https://monosnap.com/file/Lt1WJD9s6NbslcCxmUWLzesnVzXjgZ" width="200" alt="It's mee">
+<img src="https://monosnap.com/file/id7QkS2hd5gKDL1xeSXx5BAZRqTHaw" width="200" alt="My cat">
