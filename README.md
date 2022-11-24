@@ -19,6 +19,5 @@ At the moment, I have already managed to learn and put into practice the followi
 
 The next step I will study Java and Test Automation, and then wait for me on Google! (;
 
-
-<img src="https://monosnap.com/file/id7QkS2hd5gKDL1xeSXx5BAZRqTHaw" width="200" alt="My photo">
-<img src="https://monosnap.com/file/Lt1WJD9s6NbslcCxmUWLzesnVzXjgZ" width="200" alt="My photo">
+<img src="https://sun9-north.userapi.com/sun9-86/s/v1/ig2/rsHcvi6cxCn7n_IVtYKt5c4nT_DKZKwWma5o948dSokD3aM83O37DtC_nPeGIzfpWKwzMXwxVdEw8rso_WAo6QU0.jpg?size=960x1280&quality=95&type=album" width="200" alt="My photo">
+<img src="https://sun9-east.userapi.com/sun9-76/s/v1/ig2/iwzaiJQrCYeWsf94hozlXfNpO-ObZAN__gf-6YCsQtrZUokg5Txx9xwtpWZFIaYmFsUjAu0Zn8fra1MB8ozGxkQK.jpg?size=720x1280&quality=95&type=album" width="200" alt="My photo">
