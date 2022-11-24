@@ -19,5 +19,5 @@ At the moment, I have already managed to learn and put into practice the followi
 
 The next step I will study Java and Test Automation, and then wait for me on Google! (;
 
-![](https://monosnap.com/file/id7QkS2hd5gKDL1xeSXx5BAZRqTHaw)
-![](https://monosnap.com/file/Lt1WJD9s6NbslcCxmUWLzesnVzXjgZ)
+![me](https://monosnap.com/file/id7QkS2hd5gKDL1xeSXx5BAZRqTHaw)
+![cat](https://monosnap.com/file/Lt1WJD9s6NbslcCxmUWLzesnVzXjgZ)
