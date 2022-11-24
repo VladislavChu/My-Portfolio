@@ -19,5 +19,5 @@ At the moment, I have already managed to learn and put into practice the followi
 
 The next step I will study Java and Test Automation, and then wait for me on Google! (;
 
-image.png
-image.png
+![My cat](https://prnt.sc/L5ggvC3bDvc0)
+![It's mee](https://prnt.sc/cd7TX5qPV_Tw)
