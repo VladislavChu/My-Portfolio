@@ -23,3 +23,4 @@ The next step I will study Java and Test Automation, and then wait for me on Goo
 ![](mycat.jpg)
 <img src="[ссылка](https://monosnap.com/file/id7QkS2hd5gKDL1xeSXx5BAZRqTHaw)" width="200" alt="My photo">
 <img src="[ссылка](https://monosnap.com/file/Lt1WJD9s6NbslcCxmUWLzesnVzXjgZ)" width="200" alt="My photo">
+
